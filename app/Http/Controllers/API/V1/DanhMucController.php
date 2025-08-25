@@ -6,7 +6,8 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Models\CategoryPost; // Assuming CategoryPost is the model for categories
 use App\Models\Category;
-use App\Models\post;
+use App\Models\Post;
+
 
 class DanhMucController extends Controller
 {
